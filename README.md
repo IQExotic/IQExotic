@@ -7,7 +7,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class CommunityLead:
 
     def __init__(self):
         self.name = "Exotic"
