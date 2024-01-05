@@ -41,5 +41,3 @@ me.say_hi()
 
 
 ## 🧠 My Repositorys
-[![](https://github-readme-stats.vercel.app/api/pin/?username=IQExotic&repo=speedtest)](https://github.com/IQExotic/speedtest)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sector-7-Development-Team&repo=Rainbow-Six-Verification)](https://github.com/IQExotic/speedtest)
